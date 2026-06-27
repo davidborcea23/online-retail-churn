@@ -1,0 +1,11 @@
+# date
+data/
+*.xlsx
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# medii
+.env
